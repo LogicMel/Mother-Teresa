@@ -1,2 +1,3 @@
 # Mother Teresa - A Tribute
-A Tribute Page I made fro St. Mother Teresa
+This is My first project, I just started learning HTML and CSS. 
+This is a tribute page I made about St. Mother Teresa
