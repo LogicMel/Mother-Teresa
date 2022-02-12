@@ -25,8 +25,11 @@ body {
   font-family: "MonteCarlo", cursive;
   font-size: 25px;
 }
+
 .briefhistory {
   margin-left: 40px;
+  margin-right: 40px;
+  padding: 10px;
   font-size: 60px;
 }
 
@@ -41,6 +44,7 @@ p {
   font-family: "Atkinson Hyperlegible", sans-serif;
   font-size: 16px;
   margin-top: 10px;
+  text-align: left;
 }
 
 span {
@@ -52,8 +56,16 @@ span {
   height: 30px;
   font-family: monospace;
   font-size: 16.5px;
-  background-color: neon rgb(248, 223, 176);
 }
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: blue;
+}
+
 /*fonts
 /*font-family: 'Atkinson Hyperlegible', sans-serif;
 font-family: 'MonteCarlo', cursive;*/
