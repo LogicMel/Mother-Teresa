@@ -21,6 +21,11 @@ body {
   box-shadow: 0 20px 30px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
+.image-of-teresa:hover {
+  transform: scale(1.1);
+}
+
+
 .quote {
   font-family: "MonteCarlo", cursive;
   font-size: 25px;
@@ -57,6 +62,11 @@ span {
   font-family: monospace;
   font-size: 16.5px;
 }
+
+.more:hover {
+  transform: scale(1.1);
+}
+
 
 .link {
   color: black;
