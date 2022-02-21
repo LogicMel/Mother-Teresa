@@ -3,6 +3,12 @@ body {
 }
 
 /*div*/
+
+#border {
+  border-color: #6495ed;
+  border-style: solid;
+}
+
 .intro {
   text-align: center;
 }
@@ -12,8 +18,6 @@ body {
   font-size: 45px;
   font-weight: 300px;
   margin-top: 5px;
-  border--color: black;
-  border-style: solid;
 }
 
 .image-of-teresa {
@@ -22,11 +26,6 @@ body {
   margin-top: 9.5px;
   box-shadow: 0 20px 30px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
-
-.image-of-teresa:hover {
-  transform: scale(1.1);
-}
-
 
 .quote {
   font-family: "MonteCarlo", cursive;
@@ -63,12 +62,9 @@ span {
   height: 30px;
   font-family: monospace;
   font-size: 16.5px;
+  margin-left: 45px;
+  margin-bottom: 4px;
 }
-
-.more:hover {
-  transform: scale(1.1);
-}
-
 
 .link {
   color: black;
